@@ -30,6 +30,8 @@ How to Play:
 
 Tech Stack:
 
-HTML5 | CSS3 | jQuery | Vanilla JavaScript
-Audio: MP3 sound effects for each color + wrong answer
-Animations: jQuery fadeIn/fadeOut + CSS pressed class
+  ♦ HTML5 | CSS3 | jQuery | Vanilla JavaScript
+
+  ♦ Audio: MP3 sound effects for each color + wrong answer
+
+  ♦ Animations: jQuery fadeIn/fadeOut + CSS pressed class
